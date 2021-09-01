@@ -8,9 +8,6 @@ const config = {
   user: DB_USER,
   password: DB_PASSWORD,
   database: DB_DATABASE,
-  ssl: {
-    rejectUnauthorize: false,
-  },
 };
 
 const db = new Client(config);
