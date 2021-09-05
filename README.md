@@ -19,7 +19,7 @@ The architechture to created this project:
 1. Database PostgreSQL
 2. Node JS
 3. Express JS ( Framework )
-4. Knex ( Query Builder )
+4. Pusher Beams For Notification
 
 ## API Endpoint
 auth endpoint
