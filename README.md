@@ -26,23 +26,6 @@ auth endpoint
 
     POST      /auth/login
     POST      /auth/register
-
-category endpoint
-
-    GET      /category/
-    GET      /cinemas/:id
-    POST     /cinemas/
-    PATCH    /cinemas/:id
-    DEL      /cinemas/:id
-    
-schedule endpoint
-
-    GET      /schedules/1
-    GET      /schedules/movies/1
-    GET      /schedules/cinemas/1
-    POST     /schedules
-    PATCH    /schedules/1
-    DEL      /schedules/1
     
 post(article) endpoint
 
