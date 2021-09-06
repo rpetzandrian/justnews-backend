@@ -21,6 +21,12 @@ The architechture to created this project:
 3. Express JS ( Framework )
 4. Pusher Beams For Notification
 
+## Additional
+
+This project has implement CleanCode like KISS, DRY, YAGNI, and SOLID Principle, Design Pattern, and Common Database Optimation. For full documentation, see the link below.
+
+> [Docs](https://catnip-coelurus-544.notion.site/Database-1e3493e0cc3e42af92fadbce53cb5265)
+
 ## API Endpoint
 auth endpoint
 
