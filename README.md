@@ -25,7 +25,8 @@ The architechture to created this project:
 
 This project has implement CleanCode like KISS, DRY, YAGNI, and SOLID Principle, Design Pattern, and Common Database Optimation. For full documentation, see the link below.
 
-> [Docs](https://catnip-coelurus-544.notion.site/Database-1e3493e0cc3e42af92fadbce53cb5265)
+> [Implemetation Docs](https://catnip-coelurus-544.notion.site/Implementation-Clean-Code-Design-Pattern-and-Database-Optimization-66706d01cb8e43478d80423ccbb34b86)
+> [Other Docs](https://catnip-coelurus-544.notion.site/Advance-Week-Documentation-56408c250bdf4896b01aba83872b2311)
 
 ## API Endpoint
 auth endpoint
